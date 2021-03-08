@@ -1,3 +1,7 @@
+'''
+        Written by SleepyChicken
+'''
+
 import random
 
 i = 0                                                   # ----- Loop counter
